@@ -61,3 +61,12 @@
 .number {
   margin: 30px;
 }
+
+.driver-image {
+  width: 200px;
+}
+
+.card-driver {
+  display: flex;
+  border: 1px solid black;
+}
